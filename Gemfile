@@ -1,8 +1,15 @@
 source "https://rubygems.org"
-gem "github-pages", "~> 227", group: :jekyll_plugins
+
+gem "jekyll-remote-theme"
+
+group :jekyll_plugins do
+  gem "jekyll-feed", "~> 0.6"
+  # gem "github-pages" # https://github.com/github/pages-gem
+end
+
+# gem "github-pages", "~> 227", group: :jekyll_plugins
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.5"
-remote_theme: raviriley/agency-jekyll-theme
 # gemspec
 
 # group :jekyll_plugins do
