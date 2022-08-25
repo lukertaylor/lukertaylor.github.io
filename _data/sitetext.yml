@@ -22,15 +22,15 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "App development"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Using the flexible Google Flutter open source framework to build beautiful, cross-platform (Android, iOS, Web, MacOS, Windows and Linux) apps from a single codebase."
         icon: fas fa-mobile
       - title: "Agile coaching"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Introducing or enhancing Agile software development. Team management. Delivery management."
         icon: fas fa-users
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "App development projects."
     section: portfolio
     closebutton: "Close Project"
 
@@ -66,9 +66,22 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About"
+    text: "my story"
+    body: "I was first introduced to a computer when my mother bought an Apple II computer to do farm accounts and milk quota projections. This was back in about 1980.\n
+
+    I started by entering (and then debugging) BASIC games programs from printouts in magazines, available at the time. And then moved on to build my own BASIC games.\n
+
+    At the time it wasn't easy to access Computer Science learning, so I went down the route of Electrical and Electronic Engineering, but managed to do an evening class about microprocessors.\n
+
+    My first jobs all related to Electronics, but also included interfacing electronic circuits with BBC Microcomputers and writing BASIC and assembly programs.\n
+
+    At the first opportunity, I moved into an IT role, just as the IBM PC was taking off. I stayed in that role, seeing in the first version of Windows and then Windows NT.\n
+
+    In my next job, as a consultant at Unisys, I wrote a licence monitoring program using C++ and Win32, but was then 'promoted' into a managerial role.\n
+
+    I spent many years in non technical roles - Scrum Master, Development Manager, Assistant IT Director, but I am now transitioning back to software development - a journey that I am finding exciting and deeply rewarding.
+    "
     section: about
 
   clients:
