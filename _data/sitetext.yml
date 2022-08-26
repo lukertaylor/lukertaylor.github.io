@@ -25,7 +25,7 @@ en: &DEFAULT_EN
         desc: "Using the flexible Google Flutter open source framework to build beautiful, cross-platform (Android, iOS, Web, MacOS, Windows and Linux) apps from a single codebase."
         icon: fas fa-mobile
       - title: "Agile coaching"
-        desc: "Introducing or enhancing Agile software development. Team management. Delivery management."
+        desc: "Introducing or enhancing Agile software development. Scrum Master. Team management. Delivery management. Quality improvements (accessibility and security)."
         icon: fas fa-users
 
   portfolio:
@@ -68,19 +68,19 @@ en: &DEFAULT_EN
   about:
     title: "About"
     text: "my story"
-    body: "I was first introduced to a computer when my mother bought an Apple II computer to do farm accounts and milk quota projections. This was back in about 1980.\n
+    body: "I was first introduced to a computer when my mother bought an Apple II computer to do farm accounts and milk quota projections for local farmers. This was back in about 1980.\n
 
-    I started by entering (and then debugging) BASIC games programs from printouts in magazines, available at the time. And then moved on to build my own BASIC games.\n
+    I started coding by keying-in and then debugging BASIC games programs from printouts in magazines available at the time. I then moved on to build my own BASIC games.\n
 
-    At the time it wasn't easy to access Computer Science learning, so I went down the route of Electrical and Electronic Engineering, but managed to do an evening class about microprocessors.\n
+    At the time it wasn't easy to access Computer Science learning, so my education went down the route of Electrical and Electronic Engineering, but I also managed to do an evening class about microprocessors.\n
 
-    My first jobs all related to Electronics, but also included interfacing electronic circuits with BBC Microcomputers and writing BASIC and assembly programs.\n
+    My first jobs all related to Electronics, but also included interfacing electronic circuits with BBC Microcomputers and writing BASIC and assembly programs to utilise them.\n
 
     At the first opportunity, I moved into an IT role, just as the IBM PC was taking off. I stayed in that role, seeing in the first version of Windows and then Windows NT.\n
 
-    In my next job, as a consultant at Unisys, I wrote a licence monitoring program using C++ and Win32, but was then 'promoted' into a managerial role.\n
+    In my next job, as a consultant at Unisys, I wrote a licence monitoring program using C++ and Win32. I then moved into my first managerial role.\n
 
-    I spent many years in non technical roles - Scrum Master, Development Manager, Assistant IT Director, but I am now transitioning back to software development - a journey that I am finding exciting and deeply rewarding.
+    I spent many years in non technical roles - Scrum Master, Development Manager, Assistant IT Director, but I am now transitioning back to software development - a journey that I am finding exciting and very rewarding.
     "
     section: about
 

@@ -13,7 +13,7 @@ caption:
 ### Introduction
 The main aims for this project were to improve my mobile app development skills (interacting with remote API's, accessibility and multilingual support), and create an app that will be valuable for users.
 
-Around the world, there is an inequality regarding access to published research - students and researchers who are affiliated with large Universities and colleges, those that can afford to pay publishers subscriptions for journals, get access to a wealth of research. But people who are either affiliated with organisations who cannot afford journal subscriptions, or are not affiliated with any organisation, cannot afford to buy access to research.
+Around the world, there is an inequality regarding access to published research - students and researchers who are affiliated with large Universities and colleges, those that can afford to pay publisher subscriptions for journals, get access to a wealth of research. But people who are either affiliated with organisations who cannot afford journal subscriptions, or are not affiliated with any organisation and cannot afford to buy access to research.
 
 Open Access research works on a pay-to-publish model instead of the traditional pay-to-read model. Researchers, or more usually their organisation or the research funder, pay the publisher to publish the research article as Open Access, which is then available to all. [Core](https://core.ac.uk/) is the world's largest collection of Open Access research papers with over 200 million Open Access articles.
 
